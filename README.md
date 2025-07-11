@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e7baf60-0772-40de-9599-cc227d271248" /># 🌦️ Weather App
+# 🌦️ Weather App
 
 A simple and responsive weather application built using **HTML**, **CSS**, and **JavaScript** that fetches real-time weather data using a public API.
 
