@@ -1,4 +1,4 @@
-# 🌦️ Weather App
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e7baf60-0772-40de-9599-cc227d271248" /># 🌦️ Weather App
 
 A simple and responsive weather application built using **HTML**, **CSS**, and **JavaScript** that fetches real-time weather data using a public API.
 
@@ -6,7 +6,7 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 
 - 🌤️ Get current weather information by city name
 - 📍 Displays temperature, weather condition, humidity, and wind speed
-- 🌐 Real-time API integration (like OpenWeatherMap)
+- 🌐 Real-time API integration (like Weather APi)
 - 🎨 Clean and responsive UI for desktop and mobile
 
 ## 🔧 Technologies Used
@@ -14,15 +14,16 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-- [OpenWeatherMap API](https://openweathermap.org/api) *(or the one you're using)*
+- [Weather API]
 
 ## 📸 Screenshots
 - The Screenshots represent how the ui looks likes in Web devices-
-  ![image](https://github.com/user-attachments/assets/f8546f18-984d-4ce1-83f7-958c3ce5ef3b)
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7734f09-6fb1-4120-8def-2e03881feb1a" />
+
   
 - The Screenshots represent how the ui looks likes in Mobile devices-
-  ![image](https://github.com/user-attachments/assets/61ea3bbc-46be-4745-88bd-86748d8caa04)
-  ![image](https://github.com/user-attachments/assets/84a17d4d-3ca4-4977-b976-5733addb83e6)
+- <img width="401" height="756" alt="image" src="https://github.com/user-attachments/assets/8c2fb49b-0b66-48af-9854-5d463259c18d" />
+
 
 
   
