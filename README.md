@@ -16,6 +16,8 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 - JavaScript (Vanilla)
 - [Weather API]
 
+  ## File Structure
+
 ## 📸 Screenshots
 - The Screenshots represent how the ui looks likes in Web devices-
 - <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7734f09-6fb1-4120-8def-2e03881feb1a" />
