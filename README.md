@@ -26,7 +26,8 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 - The Screenshots represent how the ui looks likes in Mobile devices-
 - <img width="401" height="756" alt="image" src="https://github.com/user-attachments/assets/8c2fb49b-0b66-48af-9854-5d463259c18d" />
 
-
+## Author:
+- Mo Fahim Raj
 
   
 
