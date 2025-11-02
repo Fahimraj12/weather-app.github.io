@@ -18,6 +18,13 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 
   ## File Structure
 
+  
+### Getting Started (Run Locally)
+- Clone the repository
+  ```bash
+  git clone https://github.com/Fahimraj12/LeetMeteric-app.github.io.git
+  cd LeetMeteric-app
+
 ## 📸 Screenshots
 - The Screenshots represent how the ui looks likes in Web devices-
 - <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7734f09-6fb1-4120-8def-2e03881feb1a" />
