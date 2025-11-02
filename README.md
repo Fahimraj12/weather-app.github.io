@@ -22,7 +22,7 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 ### Getting Started (Run Locally)
 - Clone the repository
   ```bash
-  git clone https://github.com/Fahimraj12/LeetMeteric-app.github.io.git
+  git clone https://github.com/Fahimraj12/weather-app.github.io.git
   cd LeetMeteric-app
 
 ## 📸 Screenshots
