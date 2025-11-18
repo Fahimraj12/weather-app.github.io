@@ -4,10 +4,10 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 
 ## 🚀 Features
 
-- 🌤️ Get current weather information by city name
-- 📍 Displays temperature, weather condition, humidity, and wind speed
-- 🌐 Real-time API integration (like Weather APi)
-- 🎨 Clean and responsive UI for desktop and mobile
+- Get current weather information by city name
+- Displays temperature, weather condition, humidity, and wind speed
+- Real-time API integration (like Weather APi)
+- Clean and responsive UI for desktop and mobile
 
 ## 🔧 Technologies Used
 
